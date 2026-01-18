@@ -8,7 +8,7 @@ blinker==1.8.2
     # via flask
 brotli==1.2.0
     # via geventhttpclient
-certifi==2025.11.12
+certifi==2026.1.4
     # via
     #   geventhttpclient
     #   requests
@@ -25,7 +25,7 @@ flask==3.0.3
     #   flask-cors
     #   flask-login
     #   locust
-flask-cors==6.0.0
+flask-cors==6.0.2
     # via locust
 flask-login==0.6.3
     # via locust
@@ -57,17 +57,17 @@ python-dateutil==2.9.0.post0
     # via faker
 pyzmq==26.2.0
     # via locust
-requests==2.32.4
+requests==2.32.5
     # via locust
 six==1.16.0
     # via python-dateutil
 typing-extensions==4.12.2
     # via faker
-urllib3==2.6.0
+urllib3==2.6.3
     # via
     #   geventhttpclient
     #   requests
-werkzeug==3.1.4
+werkzeug==3.1.5
     # via
     #   flask
     #   flask-cors
